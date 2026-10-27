@@ -7,6 +7,17 @@ ROM: Stock Realme UI
 Tested firmware: "RMX5085_16.0.7.202 (EX01)"
 Kernel: "6.6.89-android15-8-g97a9aaefab9a-ab14519050-4k"
 
+## Screenshots
+
+### KernelSU Status
+![KernelSU Status](Screenshot_2026-10-27-14-20-17-19.JPG)
+
+### Device Information
+![Device Information](Screenshot_2026-10-26-18-38-52-52.JPG)
+
+###animetion unlock 
+![termux ](Screenshot_2026-10-27-15-49-57-88.JPG)
+
 Requirements
 
 Before starting, download:
